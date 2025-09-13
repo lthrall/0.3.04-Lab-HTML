@@ -1,8 +1,11 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  border-bottom: 3px solid #000000;
+  border-top: 3px solid #000000;
 }
 
+body {
+  background-color: #ececec;
+}
 table {
   border-collapse: collapse;
   width: 100%;
